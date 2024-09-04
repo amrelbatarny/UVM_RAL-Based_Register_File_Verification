@@ -31,7 +31,6 @@ The UVM testbench is organized under the `UVM_Testbench` directory and is struct
 - **RegisterFile_write_sequence.sv**: A specific sequence for writing data to the Register File.
 - **Registers.sv**: Defines the registers used in the Register File.
 - **shared_pkg.sv**: Shared package containing common parameters and utilities.
-- **rename_uvm_files.py**: Python script to rename UVM-related files if needed.
 
 ### Simulation
 
