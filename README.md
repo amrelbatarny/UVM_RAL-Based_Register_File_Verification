@@ -1,7 +1,3 @@
-Here is a draft of the README file for your repository:
-
----
-
 # UVM_RAL-Based_Register_File_Verification
 
 This repository contains the source files for the "UVM_RAL-Based_Register_File_Verification" project. This project involves the development of a complete top-level UVM environment to verify a Register File module using the UVM Register Abstraction Layer (RAL). 
