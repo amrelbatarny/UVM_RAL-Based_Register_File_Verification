@@ -1,0 +1,17 @@
+../UVM_Testbench/shared_pkg.sv
+../UVM_Testbench/RegisterFile_seq_item.sv
+../UVM_Testbench/RegisterFile_adapter.sv
+../UVM_Testbench/Registers.sv
+../UVM_Testbench/RegisterFile_block.sv
+../UVM_Testbench/RegisterFile_sequencer.sv
+../UVM_Testbench/RegisterFile_driver.sv
+../UVM_Testbench/RegisterFile_monitor.sv
+../UVM_Testbench/RegisterFile_config.sv
+../UVM_Testbench/RegisterFile_agent.sv
+../UVM_Testbench/RegisterFile_write_sequence.sv
+../UVM_Testbench/RegisterFile_if.sv
+../UVM_Testbench/RegisterFile_env.sv
+../UVM_Testbench/RegisterFile_reg_seq.sv
+../UVM_Testbench/RegisterFile_test.sv
+../RTL/RegisterFile.sv
+../UVM_Testbench/RegisterFile_top.sv
